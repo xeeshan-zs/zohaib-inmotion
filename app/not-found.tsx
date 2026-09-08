@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="error-page"><span className="eyebrow">404 / OUT OF FRAME</span><h1>THIS CUT<br/>DIDN’T MAKE IT.</h1><p>The project may have moved or isn’t published yet.</p><a href="/" className="primary-button">Back to the portfolio ↗</a></main>}
