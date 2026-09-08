@@ -1,5 +1,8 @@
-import { hydrateRoot } from 'react-dom/client';
+import { createRoot } from 'react-dom/client';
 import App from './app';
 import './app/globals.css';
+import './lib/firebase';
 
-hydrateRoot(document.getElementById('main-content')!, <App path={window.location.pathname.replace(/\.html$/, '') || '/'}/>);
+createRoot(document.getElementById('main-content')!).render(
+  <App path={window.location.pathname.replace(/\.html$/, '') || '/'}/>
+);
