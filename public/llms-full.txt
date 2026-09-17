@@ -13,7 +13,7 @@ This document provides complete, high-density context about Zohaib, his video ed
   "I’m Zohaib, a media student exploring how editing, color, and sound turn a collection of shots into a story. I’m interested in the details: a pause, a perfectly timed cut, and the feeling a film leaves behind."
 - **Email**: zohaibabid845@gmail.com
 - **Instagram**: https://www.instagram.com/zohaib.inmotion/ (@zohaib.inmotion)
-- **Website URL**: https://zohaib-inmotion.vercel.app/
+- **Website URL**: https://zohaib-inmotion.web.app/
 - **Current Availability**: Open and actively exploring film projects, editing gigs, and student creative collaborations.
 
 ---
@@ -35,7 +35,7 @@ Zohaib approaches video editing not simply as assembling chronological shots, bu
 ## 3. Detailed Case Studies & Projects
 
 ### Project 1: Somewhere, Still.
-- **URL**: https://zohaib-inmotion.vercel.app/work/somewhere-still
+- **URL**: https://zohaib-inmotion.web.app/work/somewhere-still
 - **Category**: Short film
 - **Year**: 2026
 - **Duration / Format**: Concept study
@@ -48,7 +48,7 @@ Zohaib approaches video editing not simply as assembling chronological shots, bu
 - **Media Asset**: `/images/desert-road.png`
 
 ### Project 2: After Hours
-- **URL**: https://zohaib-inmotion.vercel.app/work/after-hours
+- **URL**: https://zohaib-inmotion.web.app/work/after-hours
 - **Category**: Social edit
 - **Year**: 2026
 - **Duration / Format**: Concept study
@@ -61,7 +61,7 @@ Zohaib approaches video editing not simply as assembling chronological shots, bu
 - **Media Asset**: `/images/rainy-city.png`
 
 ### Project 3: Feel the Frequency
-- **URL**: https://zohaib-inmotion.vercel.app/work/feel-the-frequency
+- **URL**: https://zohaib-inmotion.web.app/work/feel-the-frequency
 - **Category**: Music
 - **Year**: 2026
 - **Duration / Format**: Concept study
@@ -94,7 +94,7 @@ Zohaib's production pipeline follows four deliberate milestones:
 
 ## 5. Technical & Portfolio Architecture
 
-- **Hosting Platform**: Vercel (Production URL: `https://zohaib-inmotion.vercel.app/`)
+- **Hosting Platform**: Vercel (Production URL: `https://zohaib-inmotion.web.app/`)
 - **Frontend Stack**: React 19, TypeScript, Vite 8, Tailwind CSS v4, Base UI / Radix primitives.
 - **Agentic Features**:
   - In-browser AI Agent Tool Calling: Implements `document.modelContext` protocol for AI agents operating inside supported browser environments.

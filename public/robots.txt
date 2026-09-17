@@ -1,4 +1,4 @@
-# robots.txt for https://zohaib-inmotion.vercel.app/
+# robots.txt for https://zohaib-inmotion.web.app/
 
 # Standard Search Crawlers (Googlebot, Bingbot, etc.)
 User-agent: *
@@ -34,9 +34,9 @@ User-agent: FacebookBot
 Allow: /
 
 # Canonical Sitemap
-Sitemap: https://zohaib-inmotion.vercel.app/sitemap.xml
+Sitemap: https://zohaib-inmotion.web.app/sitemap.xml
 
 # LLM & Agent Discovery
-# llms.txt standard: https://zohaib-inmotion.vercel.app/llms.txt
-# Full LLM context: https://zohaib-inmotion.vercel.app/llms-full.txt
-# Agent card: https://zohaib-inmotion.vercel.app/well-known/agent.json
+# llms.txt standard: https://zohaib-inmotion.web.app/llms.txt
+# Full LLM context: https://zohaib-inmotion.web.app/llms-full.txt
+# Agent card: https://zohaib-inmotion.web.app/well-known/agent.json
