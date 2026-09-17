@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": 404,
+    "message": "Resource not found",
+    "resolution": "Check the API documentation at /openapi.json for valid endpoints."
+  }
+}

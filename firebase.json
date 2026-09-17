@@ -8,6 +8,10 @@
     ],
     "rewrites": [
       {
+        "source": "/api/**",
+        "destination": "/api/404.json"
+      },
+      {
         "source": "/",
         "destination": "/index.html"
       },
