@@ -1,0 +1,14 @@
+{
+  "mcpVersion": "2024-11-05",
+  "connections": {
+    "sse": {
+      "url": "https://zohaib-inmotion.web.app/api/v1/mcp/sse"
+    }
+  },
+  "tools": [
+    {
+      "name": "get_projects",
+      "description": "Retrieves the list of featured concept studies."
+    }
+  ]
+}

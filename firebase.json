@@ -6,10 +6,29 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "headers": [
+      {
+        "source": "/api/**",
+        "headers": [
+          {
+            "key": "RateLimit-Limit",
+            "value": "60"
+          },
+          {
+            "key": "RateLimit-Remaining",
+            "value": "59"
+          },
+          {
+            "key": "RateLimit-Reset",
+            "value": "60"
+          }
+        ]
+      }
+    ],
     "rewrites": [
       {
         "source": "/api/**",
-        "destination": "/api/404.json"
+        "destination": "/api/v1/404.json"
       },
       {
         "source": "/",

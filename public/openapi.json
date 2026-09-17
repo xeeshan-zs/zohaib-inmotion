@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Zohaib InMotion API",
-    "description": "Public API for Zohaib's portfolio. Allows retrieving project data and contact information.",
+    "description": "Public API for Zohaib's portfolio. Allows retrieving project data and contact information. Versioning is provided in the URL path (/v1/).",
     "version": "1.0.0"
   },
   "servers": [
@@ -11,7 +11,7 @@
     }
   ],
   "paths": {
-    "/api/health.json": {
+    "/api/v1/health.json": {
       "get": {
         "operationId": "getHealthStatus",
         "summary": "Health check endpoint",
@@ -26,13 +26,16 @@
                   "properties": {
                     "status": {
                       "type": "string",
+                      "description": "Health status of the API",
                       "example": "ok"
                     },
                     "version": {
                       "type": "string",
+                      "description": "Version string of the API",
                       "example": "1.0.0"
                     }
-                  }
+                  },
+                  "required": ["status", "version"]
                 }
               }
             }
@@ -50,7 +53,7 @@
         }
       }
     },
-    "/api/projects.json": {
+    "/api/v1/projects.json": {
       "get": {
         "operationId": "getProjects",
         "summary": "Get all projects",
@@ -89,15 +92,19 @@
         "type": "object",
         "properties": {
           "id": {
-            "type": "string"
+            "type": "string",
+            "description": "Unique identifier for the project"
           },
           "title": {
-            "type": "string"
+            "type": "string",
+            "description": "The title of the project"
           },
           "category": {
-            "type": "string"
+            "type": "string",
+            "description": "The category the project belongs to"
           }
-        }
+        },
+        "required": ["id", "title", "category"]
       },
       "ErrorResponse": {
         "type": "object",
@@ -107,19 +114,24 @@
             "properties": {
               "code": {
                 "type": "integer",
+                "description": "HTTP status code",
                 "example": 404
               },
               "message": {
                 "type": "string",
+                "description": "Error message",
                 "example": "Resource not found"
               },
               "resolution": {
                 "type": "string",
+                "description": "Suggested resolution for the error",
                 "example": "Check the API documentation for valid endpoints."
               }
-            }
+            },
+            "required": ["code", "message"]
           }
-        }
+        },
+        "required": ["error"]
       }
     }
   }
