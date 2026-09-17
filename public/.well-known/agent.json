@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "zohaib-portfolio-agent",
+  "version": "1.0.0",
+  "description": "Agentic discovery manifest for Zohaib's personal video editing portfolio. Provides LLM context, project metadata, and browser modelContext capabilities.",
+  "author": {
+    "name": "Zohaib",
+    "email": "zohaibabid845@gmail.com",
+    "url": "https://zohaib-inmotion.vercel.app/"
+  },
+  "url": "https://zohaib-inmotion.vercel.app/",
+  "documentation": {
+    "llms_summary": "https://zohaib-inmotion.vercel.app/llms.txt",
+    "llms_full": "https://zohaib-inmotion.vercel.app/llms-full.txt",
+    "sitemap": "https://zohaib-inmotion.vercel.app/sitemap.xml",
+    "robots": "https://zohaib-inmotion.vercel.app/robots.txt"
+  },
+  "capabilities": {
+    "llm_friendly": true,
+    "semantic_search": true,
+    "browser_model_context": true
+  },
+  "tools": [
+    {
+      "name": "read_portfolio_projects",
+      "description": "Read published portfolio projects and active filter category from the live portfolio application.",
+      "readOnly": true
+    },
+    {
+      "name": "filter_portfolio_projects",
+      "description": "Filter the displayed portfolio projects by category (e.g., Short film, Social edit, Music, Motion design, or All work).",
+      "readOnly": false
+    }
+  ],
+  "projects": [
+    {
+      "id": "somewhere-still",
+      "title": "Somewhere, Still.",
+      "category": "Short film",
+      "url": "https://zohaib-inmotion.vercel.app/work/somewhere-still"
+    },
+    {
+      "id": "after-hours",
+      "title": "After Hours",
+      "category": "Social edit",
+      "url": "https://zohaib-inmotion.vercel.app/work/after-hours"
+    },
+    {
+      "id": "feel-the-frequency",
+      "title": "Feel the Frequency",
+      "category": "Music",
+      "url": "https://zohaib-inmotion.vercel.app/work/feel-the-frequency"
+    }
+  ]
+}

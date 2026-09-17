@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Homepage -->
+  <url>
+    <loc>https://zohaib-inmotion.vercel.app/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/desert-road.png</image:loc>
+      <image:title>Somewhere, Still — Short film concept</image:title>
+      <image:caption>A quiet road. An open horizon. A story told in the space between moments.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/rainy-city.png</image:loc>
+      <image:title>After Hours — Social edit concept</image:title>
+      <image:caption>The city slows down. The details get louder.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/live-performance.png</image:loc>
+      <image:title>Feel the Frequency — Music edit concept</image:title>
+      <image:caption>That split second when a room becomes a feeling.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Case Study: Somewhere, Still -->
+  <url>
+    <loc>https://zohaib-inmotion.vercel.app/work/somewhere-still</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/desert-road.png</image:loc>
+      <image:title>Somewhere, Still — Edit direction and color exploration</image:title>
+      <image:caption>Short film concept study with patient pacing and atmospheric sound bed.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Case Study: After Hours -->
+  <url>
+    <loc>https://zohaib-inmotion.vercel.app/work/after-hours</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/rainy-city.png</image:loc>
+      <image:title>After Hours — Social edit and visual rhythm</image:title>
+      <image:caption>Social edit direction contrasting neon reflections and rhythmic city cuts.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Case Study: Feel the Frequency -->
+  <url>
+    <loc>https://zohaib-inmotion.vercel.app/work/feel-the-frequency</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://zohaib-inmotion.vercel.app/images/live-performance.png</image:loc>
+      <image:title>Feel the Frequency — Performance and music edit</image:title>
+      <image:caption>Music-film direction focused on silhouettes, negative space, and live energy.</image:caption>
+    </image:image>
+  </url>
+</urlset>

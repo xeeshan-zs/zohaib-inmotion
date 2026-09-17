@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Zohaib Portfolio Assistant",
+  "name_for_model": "zohaib_portfolio",
+  "description_for_human": "Explore Zohaib's video editing portfolio, case studies, creative direction, and contact details.",
+  "description_for_model": "Assistant for querying Zohaib's video editing portfolio, understanding his editorial approach, project case studies (Somewhere, Still; After Hours; Feel the Frequency), and retrieving contact info.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://zohaib-inmotion.vercel.app/llms.txt"
+  },
+  "logo_url": "https://zohaib-inmotion.vercel.app/favicon.svg",
+  "contact_email": "zohaibabid845@gmail.com",
+  "legal_info_url": "https://zohaib-inmotion.vercel.app/"
+}

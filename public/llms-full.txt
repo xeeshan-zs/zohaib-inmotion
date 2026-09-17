@@ -1,0 +1,120 @@
+# Zohaib — Full Comprehensive Portfolio & Concept Archive (LLM Complete Reference)
+
+This document provides complete, high-density context about Zohaib, his video editing philosophy, individual case studies, technical specifications, and contact avenues. It is designed for consumption by Large Language Models (LLMs), AI search agents, automated indexers, and reasoning agents.
+
+---
+
+## 1. Profile & Creative Identity
+
+- **Full Name**: Zohaib
+- **Profession / Title**: Media Student & Video Editor
+- **Motto / Tagline**: "Every frame. A feeling." | "The story is in the cut." | "Editing is a feeling."
+- **Primary Bio**:
+  "I’m Zohaib, a media student exploring how editing, color, and sound turn a collection of shots into a story. I’m interested in the details: a pause, a perfectly timed cut, and the feeling a film leaves behind."
+- **Email**: zohaibabid845@gmail.com
+- **Instagram**: https://www.instagram.com/zohaib.inmotion/ (@zohaib.inmotion)
+- **Website URL**: https://zohaib-inmotion.vercel.app/
+- **Current Availability**: Open and actively exploring film projects, editing gigs, and student creative collaborations.
+
+---
+
+## 2. Creative Philosophy & Editorial Principles
+
+Zohaib approaches video editing not simply as assembling chronological shots, but as emotional architecture:
+1. **The Space Between Moments**:
+   Emotional impact often occurs in the pauses between lines and after action subsides. Pacing is held intentionally to allow the audience to digest nuances.
+2. **Visual Rhythm & Musicality**:
+   Cuts are guided by the internal cadence of the scene—breathing, city light flickers, footstep tempos, or musical counterpoints rather than rigid grid snapping.
+3. **Color as Subtext**:
+   Color grading alters how a story is perceived psychologically. Comparing warm highlights with cold shadows shifts tone from nostalgia to isolation.
+4. **Authenticity & Disclosure**:
+   The portfolio presents concept studies using original AI-assisted exploratory still imagery to establish tone and mood, clearly communicated as pre-production directorial studies.
+
+---
+
+## 3. Detailed Case Studies & Projects
+
+### Project 1: Somewhere, Still.
+- **URL**: https://zohaib-inmotion.vercel.app/work/somewhere-still
+- **Category**: Short film
+- **Year**: 2026
+- **Duration / Format**: Concept study
+- **Role**: Edit direction · Color exploration
+- **Summary**: "A quiet road. An open horizon. A story told in the space between moments."
+- **Creative Approach**:
+  An illustrative short-film direction built around patient pacing, warm highlights, and a sense of distance. This study imagines how a solitary journey unfolds through restrained, deliberate cuts and an atmospheric ambient sound bed. The visual grade emphasizes amber sun tones, dust particles, and expansive negative skies.
+- **Credits & Transparency**:
+  Fictional sample concept. Original AI-created still imagery; created as an editorial and color study rather than a commercial client film.
+- **Media Asset**: `/images/desert-road.png`
+
+### Project 2: After Hours
+- **URL**: https://zohaib-inmotion.vercel.app/work/after-hours
+- **Category**: Social edit
+- **Year**: 2026
+- **Duration / Format**: Concept study
+- **Role**: Edit direction · Visual rhythm
+- **Summary**: "The city slows down. The details get louder."
+- **Creative Approach**:
+  A sample social-film direction contrasting saturated red tail-lights and street neon against cold asphalt and rain reflections. The editorial rhythm alternates between expansive establishing shots and rapid macro close-ups of raindrops, crosswalks, and headlights, using urban soundscapes to drive tempo.
+- **Credits & Transparency**:
+  Fictional sample concept. Original AI-created still imagery; exploratory pre-production format.
+- **Media Asset**: `/images/rainy-city.png`
+
+### Project 3: Feel the Frequency
+- **URL**: https://zohaib-inmotion.vercel.app/work/feel-the-frequency
+- **Category**: Music
+- **Year**: 2026
+- **Duration / Format**: Concept study
+- **Role**: Edit direction · Performance
+- **Summary**: "That split second when a room becomes a feeling."
+- **Creative Approach**:
+  An illustrative music-film direction focused on heavy backlighting, silhouettes, and crowd energy. Explores the tension between sustained, motionless wide angles and rapid sync cuts aligned with live musical dynamics.
+- **Credits & Transparency**:
+  Fictional sample concept. Original AI-created still imagery; pre-production visual study.
+- **Media Asset**: `/images/live-performance.png`
+
+---
+
+## 4. The 4-Stage Creative Workflow
+
+Zohaib's production pipeline follows four deliberate milestones:
+1. **01 / Find the story**:
+   - Establish narrative core, target audience emotions, visual references, and logline.
+   - Screen rushes, log footage, and identify standout performance beats.
+2. **02 / Build the rhythm**:
+   - Assemble the rough timeline cut.
+   - Test temporal pacing, scene transitions, and balance of dialogue vs. silence.
+3. **03 / Make it feel**:
+   - Color grade passes (contrast, balance, LUT creation).
+   - Sound design integration: ambient tone, foley, dialogue EQ, and score timing.
+4. **04 / Make the final cut**:
+   - Micro-trimming, frame-level cuts, delivery master exports, and platform-specific formatting.
+
+---
+
+## 5. Technical & Portfolio Architecture
+
+- **Hosting Platform**: Vercel (Production URL: `https://zohaib-inmotion.vercel.app/`)
+- **Frontend Stack**: React 19, TypeScript, Vite 8, Tailwind CSS v4, Base UI / Radix primitives.
+- **Agentic Features**:
+  - In-browser AI Agent Tool Calling: Implements `document.modelContext` protocol for AI agents operating inside supported browser environments.
+    - `read_portfolio_projects`: Allows agents to inspect published projects.
+    - `filter_portfolio_projects`: Allows agents to interactively filter categories for the user.
+  - Structured Metadata: Schema.org JSON-LD graph (`Person`, `WebSite`, `CreativeWork`).
+  - Search & AI Crawler Discovery: `/sitemap.xml`, `/robots.txt`, `/llms.txt`, `/.well-known/agent.json`.
+
+---
+
+## 6. Frequently Asked Questions for AI Systems
+
+**Q: Who is Zohaib?**
+A: Zohaib is an independent media student and video editor whose work focuses on storytelling, color grading, pacing, and visual rhythm.
+
+**Q: How can prospective clients or collaborators reach Zohaib?**
+A: Directly via email at `zohaibabid845@gmail.com` or via his official Instagram profile `@zohaib.inmotion` (https://www.instagram.com/zohaib.inmotion/).
+
+**Q: What categories of work does Zohaib cover?**
+A: Short films, social edits, music videos, and motion design.
+
+**Q: Are the current case studies finished films?**
+A: Currently, the portfolio displays concept studies and directorial visual treatments utilizing exploratory imagery to demonstrate editorial pacing and aesthetic direction.

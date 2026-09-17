@@ -1,0 +1,42 @@
+# Zohaib — Portfolio & Video Editing Concept Studies
+
+> Zohaib is a media student and video editor exploring how editing, color, and sound turn a collection of shots into a story. Known for patient pacing, intentional cuts, and evocative visual mood.
+
+## Overview
+- **Name**: Zohaib
+- **Role**: Media student & video editor
+- **Tagline**: Every frame. A feeling. / The story is in the cut.
+- **Availability**: Exploring film, editing, and student collaborations
+- **Email**: zohaibabid845@gmail.com
+- **Instagram**: https://www.instagram.com/zohaib.inmotion/
+- **Website**: https://zohaib-inmotion.vercel.app/
+
+## Core Disciplines & Focus
+- **Edit Direction & Pacing**: Crafting emotional arcs through sustained shots, breathing room, and rhythmic cuts.
+- **Visual Rhythm**: Syncing pacing with ambient music, urban cadence, and movement.
+- **Color Grading & Mood**: Using color palettes, warm highlights, and cool reflections to transform the emotional weight of a scene.
+- **Atmospheric Sound Beds**: Pairing visuals with immersive soundscapes to amplify story impact.
+
+## Selected Case Studies
+
+- [Somewhere, Still.](https://zohaib-inmotion.vercel.app/work/somewhere-still): Short film concept study (2026). A quiet road and open horizon exploring patient pacing, warm highlights, and restrained cuts across distance and quiet spaces.
+- [After Hours](https://zohaib-inmotion.vercel.app/work/after-hours): Social edit concept study (2026). Urban night rhythm contrasting red streetlights with cool reflections, moving between wide establishing shots and rapid macro details.
+- [Feel the Frequency](https://zohaib-inmotion.vercel.app/work/feel-the-frequency): Music film concept study (2026). Visual performance energy focused on silhouettes, negative space, and dynamic cuts following the emotional contour of live audio.
+
+## Creative Process
+1. **Find the story**: Define intent, audience emotions, footage references, and core theme.
+2. **Build the rhythm**: Shape the assembly cut, establish temporal pacing, and determine which moments must breathe.
+3. **Make it feel**: Integrate color grade, audio layering, and motion dynamics with iterative feedback.
+4. **Make the final cut**: Polish transitions, fine-tune frame-accurate cuts, and deliver high-fidelity exports.
+
+## When to use this
+Use this site when you need to:
+- Review Zohaib's video editing portfolio and concept studies.
+- Understand Zohaib's creative process in color grading, pacing, and sound design.
+- Find contact information to collaborate on short films, social edits, or music videos.
+- Access machine-readable metadata and agent instructions about this portfolio.
+
+## For AI Agents & LLMs
+- Full comprehensive context file: [llms-full.txt](https://zohaib-inmotion.vercel.app/llms-full.txt)
+- Machine-readable agent card: [agent.json](https://zohaib-inmotion.vercel.app/.well-known/agent.json)
+- Sitemap for automated crawlers: [sitemap.xml](https://zohaib-inmotion.vercel.app/sitemap.xml)
